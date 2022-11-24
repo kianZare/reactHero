@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactHero/static/css/main.fdf7c7d9.css",
+    "main.js": "/reactHero/static/js/main.664af9ab.js",
+    "static/js/787.6ab0ab10.chunk.js": "/reactHero/static/js/787.6ab0ab10.chunk.js",
+    "index.html": "/reactHero/index.html",
+    "main.fdf7c7d9.css.map": "/reactHero/static/css/main.fdf7c7d9.css.map",
+    "main.664af9ab.js.map": "/reactHero/static/js/main.664af9ab.js.map",
+    "787.6ab0ab10.chunk.js.map": "/reactHero/static/js/787.6ab0ab10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf7c7d9.css",
+    "static/js/main.664af9ab.js"
+  ]
+}
