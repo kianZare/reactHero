@@ -1,0 +1,35 @@
+#favSection {
+  padding: 10px;
+  background-color: rgb(235, 235, 235);
+}
+
+#favCardWrapper {
+  display: flex;
+}
+
+.favCard {
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+}
+
+.favCard button {
+  margin: 0 5px;
+}
+
+/* wobble class is applied to the add to favourites button */
+.wobble {
+  animation: wobbleAnim 0.5s forwards;
+}
+
+@keyframes wobbleAnim {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  33% {
+    transform: rotate(10deg)
+  }
+  66% {
+    transform: rotate(-10deg)
+  }
+}
